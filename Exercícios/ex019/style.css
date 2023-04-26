@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(167, 252, 167);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+}
+.css{
+    color: rgb(82, 13, 45);
+    text-align: center;
+    text-decoration: underline;
+}
+.html{
+    color: rgb(13, 82, 13);
+    text-align: center;
+    text-decoration: underline;
+}
+.basico{
+    color: rgb(111, 35, 211);
+    text-align: center;
+}
+.int{
+    color:blue;
+    text-align: center;
+}
+.ava{
+    color:brown;
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    text-indent: 20px;
+}

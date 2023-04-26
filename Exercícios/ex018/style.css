@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Love';
+    src: url('fonts/Love\ You.ttf') format('truetype'), url('fonts/Love\ You.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+p{
+    font-family: 'Love', Helvetica, sans-serif;
+    font-size: 3em;
+    
+    
+}
+
+h1{
+    font-family: 'Love', Times, serif;
+    /* Aqui no font-family adicionar o nome da fonte que você gravou no font-face*/
+    font-size: 5em;
+    font-weight: normal; /*Lembrando que isso significa o "PESO" da fonte. Negrito */
+    
+}
